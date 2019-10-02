@@ -148,4 +148,3 @@ C:\Users\Vani\Documents\Facultad\LPOO II\Repositorio\Tp1_lpoo2_2019\Vistas\obj\x
 C:\Users\Vani\Documents\Facultad\LPOO II\Repositorio\Tp1_lpoo2_2019\Vistas\bin\Debug\Vistas.exe.config
 C:\Users\Facu\Documents\Lpoo2_todo_ok\Tp1_lpoo2_2019\Vistas\bin\Debug\Vistas.exe.config
 C:\Users\Facu\Documents\Nuevo_lpoo2_tp\Tp1_lpoo2_2019\Vistas\bin\Debug\Vistas.exe.config
-C:\Users\Facu\Documents\tp2lpoo\Tp1_lpoo2_2019\Vistas\bin\Debug\Vistas.exe.config
